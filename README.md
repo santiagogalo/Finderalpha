@@ -62,9 +62,9 @@ You can contact me through the following means:
 ### Examples or Demonstrations
 
 <div style="display:flex; flex-wrap:wrap;">
-    <img src="Images/images_preview/1.jpg" alt="Captura de pantalla 1" style="width:350px;">
-    <img src="Images/images_preview/2.jpg" alt="Captura de pantalla 2" style="width:350px;">
-    <img src="Images/images_preview/3.jpg" alt="Captura de pantalla 3" style="width:350px;">
-    <img src="Images/images_preview/4.jpg" alt="Captura de pantalla 4" style="width:350px;">
-    <img src="Images/images_preview/5.jpg" alt="Captura de pantalla 5" style="width:350px;">
+    <img src="Images/images_preview/1.jpg" alt="Captura de pantalla 1" style="width:550px;">
+    <img src="Images/images_preview/2.jpg" alt="Captura de pantalla 2" style="width:550px;">
+    <img src="Images/images_preview/3.jpg" alt="Captura de pantalla 3" style="width:550px;">
+    <img src="Images/images_preview/4.jpg" alt="Captura de pantalla 4" style="width:550px;">
+    <img src="Images/images_preview/5.jpg" alt="Captura de pantalla 5" style="width:550px;">
 </div>
