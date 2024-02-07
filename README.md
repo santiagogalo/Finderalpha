@@ -4,6 +4,8 @@ Finder Alpha is the ultimate tool for traders, designed to optimize decision mak
 
 At Finder Alpha, we turn your ambition into reality. Join today and discover your infinite potential.
 
+---
+
 ### Main Features:
 
 #### Pre-packaged
@@ -17,3 +19,52 @@ Our advanced 'BuyBox' alert system accurately detects when stocks are experienci
 #### Sell Box
 
 Our "SellBox" alerts accurately identify when stocks are being oversold or when investors are withdrawing capital from them. Through a visual representation of volume, using a range of colors from low to high, this scanner provides clear signals for short positions in the stock market. This advanced system allows investors to make strategic decisions, capitalizing on bearish trends. With "SellBox," investors can maximize their profit potential by being informed and making informed decisions in a dynamic and competitive market.
+
+---
+
+### Access to the platform
+
+You can enter the platform:
+
+- [FinderAlpha](https://finderalpha.com/)
+
+---
+
+### More of My Work
+
+Here is an additional list of my works and projects:
+
+1. **[Borhood](https://github.com/santiagogalo/Borhood_Oficial):** It is an innovative project in your portfolio that represents a mobile application designed specifically for the taxi sector in Colombia.
+
+2. **[TaxiApp](https://github.com/santiagogalo/TaxiApp):** It is an innovative project in your portfolio that represents a mobile application designed specifically for the taxi sector in Colombia.
+
+3. **[FinderAlpha](https://github.com/santiagogalo/Finderalpha):** is the definitive tool for traders, designed to optimize decision making in the dynamic stock market.
+
+---
+
+### Credits
+
+This project was created and developed by [Santiago Gallo](https://github.com/santiagogalo), Julian Gallo(Laravel, BackEnd) who also came up with the initial prototype.
+
+---
+
+### Contact
+
+You can contact me through the following means:
+
+- Telephone: [Whatsapp](https://api.whatsapp.com/send?phone=573041047207)
+- Email: [galo.santiago.g@gmail.com]
+- Social networks:
+  - [Linkedin](https://www.linkedin.com/in/santiago-gallo-guillen-94a40a264/)
+
+---
+
+### Examples or Demonstrations
+
+<div style="display:flex; flex-wrap:wrap;">
+    <img src="Images/images_preview/1.jpg" alt="Captura de pantalla 1" style="width:150px;">
+    <img src="Images/images_preview/2.jpg" alt="Captura de pantalla 2" style="width:150px;">
+    <img src="Images/images_preview/3.jpg" alt="Captura de pantalla 3" style="width:150px;">
+    <img src="Images/images_preview/4.jpg" alt="Captura de pantalla 4" style="width:150px;">
+    <img src="Images/images_preview/5.jpg" alt="Captura de pantalla 5" style="width:150px;">
+</div>
